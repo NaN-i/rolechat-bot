@@ -1,0 +1,24 @@
+{
+  "name": "rolechat-bot",
+  "version": "1.0.0",
+  "description": "A simple node.js bot for rolechat.org",
+  "dependencies": {
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aaa"
+  },
+  "keywords": [
+    "rolechat",
+    "api",
+    "bot",
+    "node.js"
+  ],
+  "author": "Yana S",
+  "license": "ISC"
+}
